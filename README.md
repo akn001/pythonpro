@@ -1,2 +1,2 @@
-# first_webapp_django
+# pythonpro
 Count  word from passage in this website.
